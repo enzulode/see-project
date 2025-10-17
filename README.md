@@ -1,12 +1,12 @@
 Steps:
 - [x] FR0
-- [ ] FR1
-- [ ] FR2
+- [x] FR1
+- [x] FR2
 - [ ] FR3
 - [ ] FR4
 - [ ] FR5
 - [x] FR6
 - [ ] FR7
 - [ ] FR8
-- [ ] FR9
-- [ ] FR10
+- [x] FR9
+- [x] FR10
