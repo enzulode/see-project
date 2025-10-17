@@ -8,5 +8,5 @@ Steps:
 - [x] FR6
 - [ ] FR7
 - [ ] FR8
-- [ ] FR9
+- [x] FR9
 - [ ] FR10
