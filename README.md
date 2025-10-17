@@ -1,7 +1,7 @@
 Steps:
 - [x] FR0
 - [x] FR1
-- [ ] FR2
+- [x] FR2
 - [ ] FR3
 - [ ] FR4
 - [ ] FR5
