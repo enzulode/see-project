@@ -1,6 +1,6 @@
 Steps:
 - [x] FR0
-- [ ] FR1
+- [x] FR1
 - [ ] FR2
 - [ ] FR3
 - [ ] FR4
