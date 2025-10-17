@@ -1,5 +1,5 @@
 Steps:
-- [ ] FR0
+- [x] FR0
 - [ ] FR1
 - [ ] FR2
 - [ ] FR3
